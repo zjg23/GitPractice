@@ -1,2 +1,3 @@
 changes as master branch-server!
 changes as master branch-local!
+conflict on two files!
